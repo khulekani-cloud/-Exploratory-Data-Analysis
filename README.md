@@ -1,2 +1,2 @@
-# -Exploratory-Data-Analysis
-Here I analyzed data of international layoffs . I used different strategies to manipulate data and find insight   
+# -Exploratory-Data-Analysis(layoffs)
+In this project, I conducted an Exploratory Data Analysis (EDA) on international layoff data. The analysis involved applying diverse data manipulation techniques to clean, structure, and transform the dataset. Through these strategies, I uncovered meaningful patterns and insights into global workforce reductions, highlighting trends across industries, regions, and time periods. The project demonstrates the power of EDA in turning raw data into actionable knowledge and provides a foundation for deeper analytical modeling.
